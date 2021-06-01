@@ -1,0 +1,16 @@
+#song {
+    width: 45%;
+    height: 9%;
+    font-size: 34px;
+}
+
+#song:hover{
+    background-color: black;
+    border-radius: 8px;
+    transition: 2s;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
